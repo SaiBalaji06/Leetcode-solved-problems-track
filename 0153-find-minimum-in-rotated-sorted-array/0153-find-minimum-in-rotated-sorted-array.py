@@ -5,7 +5,7 @@ class Solution:
         mi = float("inf")
 
         while(high >= low):
-            mid = (low + high) // 2
+            mid = low + (high - low) // 2
             if nums[high] > nums[low] and nums[mid] > nums[low]:
                 mi = min(mi, nums[low])
                 high = mid - 1
