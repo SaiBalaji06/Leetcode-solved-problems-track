@@ -9,15 +9,17 @@ class Solution:
         m = 0
 
         while right <= n:
-            freq[ord('Z') - ord(s[right])] += 1
-            m = max(m, freq[ord('Z') - ord(s[right])])
+            freq[ord(s[right]) - ord('A')] += 1
+            win = right - left + 1
+            m = max(freq)
             
-            while ((right - left + 1) - m) > k:
-                freq[ord('Z') - ord(s[left])] -= 1
+            while (win - m) > k:
+                freq[ord(s[left]) - ord('A')] -= 1
                 left += 1
+                win -= 1
                 m = max(freq)
 
-            mx_len = max(mx_len, (right - left + 1))
+            mx_len = max(mx_len, win)
             right += 1 
         
         return mx_len
