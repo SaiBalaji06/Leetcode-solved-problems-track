@@ -1,6 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        n = len(s) - 1
+        n = len(s)
         freq = [0] * 26
 
         mx_len = 0
@@ -8,7 +8,7 @@ class Solution:
         right = 0
         m = 0
 
-        while right <= n:
+        for right in range(n):
             freq[ord(s[right]) - ord('A')] += 1
             win = right - left + 1
             m = max(freq)
@@ -20,7 +20,6 @@ class Solution:
                 m = max(freq)
 
             mx_len = max(mx_len, win)
-            right += 1 
         
         return mx_len
 
