@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
