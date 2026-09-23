@@ -48,11 +48,4 @@ class Solution:
             if ptr2:
                 ptr1.next = ptr2
 
-
-
-            # while preptr:
-            #     print(preptr.val)
-            #     preptr = preptr.next
-        
-
         
