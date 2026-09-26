@@ -5,7 +5,6 @@ class Solution:
 
         mx_len = 0
         left = 0
-        right = 0
         m = 0
 
         for right in range(n):
