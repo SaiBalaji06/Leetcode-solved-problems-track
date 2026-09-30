@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
