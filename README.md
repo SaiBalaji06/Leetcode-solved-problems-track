@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
+| [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
