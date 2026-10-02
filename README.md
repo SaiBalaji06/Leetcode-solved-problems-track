@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -144,8 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
