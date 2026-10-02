@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0904-fruit-into-baskets) |
+| [1572-matrix-diagonal-sum](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/1572-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
