@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
