@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -166,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
