@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
