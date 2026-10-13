@@ -180,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
