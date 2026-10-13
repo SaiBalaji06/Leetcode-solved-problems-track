@@ -8,16 +8,31 @@ class Solution:
     def searchBST(self, root: TreeNode | None, val: int) -> TreeNode | None:
         if root == None:
             return None
-        
-        
-        curr = root
-        while curr:
-            if curr.val == val:
-                return curr
-            if curr.val > val:
-                curr = curr.left
+
+
+        def search(root, val):
+            if root == None:
+                return None
+            
+            if root.val == val:
+                return root
+            
+            if root.val > val:
+                return search(root.left, val)
             else:
-                curr = curr.right
+                return search(root.right, val)
         
-        return None
+        return search(root, val)
+        
+        
+        # curr = root
+        # while curr:
+        #     if curr.val == val:
+        #         return curr
+        #     if curr.val > val:
+        #         curr = curr.left
+        #     else:
+        #         curr = curr.right
+        
+        # return None
         
