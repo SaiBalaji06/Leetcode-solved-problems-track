@@ -9,10 +9,7 @@ class Solution:
         if root == None or root.val == val:
             return root
         
-        if root.val > val:
-            return self.searchBST(root.left, val)
-            
-        return self.searchBST(root.right, val)
+        return self.searchBST(root.left, val) or self.searchBST(root.right, val)
 
         
         
