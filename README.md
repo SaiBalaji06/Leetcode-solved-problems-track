@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0141-linked-list-cycle) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0053-maximum-subarray) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
