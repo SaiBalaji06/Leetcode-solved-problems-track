@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
