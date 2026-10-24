@@ -8,12 +8,14 @@ class Solution:
         if not lists:
             return None
 
-        def merge(left, right):
+        dummy = ListNode()
+
+        def merge(linklist):
             templist = ListNode()
             t1 = templist
 
-            l1 = left
-            l2 = right
+            l1 = linklist
+            l2 = dummy.next
 
             while l1 and l2:
                 if l1.val > l2.val:
@@ -29,7 +31,7 @@ class Solution:
             if l2:
                 t1.next = l2
             
-            return templist.next
+            dummy.next = templist.next
             
 
 
@@ -42,8 +44,13 @@ class Solution:
             mid = low + (high - low) // 2
 
             left = dividelist(low, mid)
+            merge(left)
+
             right = dividelist(mid + 1, high)
+            merge(right)
 
-            return merge(left, right)
-
-        return dividelist(low, high)
+        listret = dividelist(low, high)
+        # print(listret)
+        if listret:
+            return listret
+        return dummy.next
