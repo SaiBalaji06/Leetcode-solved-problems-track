@@ -9,5 +9,5 @@ class Solution:
             res += 1
             i -= 1
 
-        return res
+        return (len(s) - 1) - i
         
