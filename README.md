@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0011-container-with-most-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
