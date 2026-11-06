@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
