@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
