@@ -9,21 +9,28 @@ class Solution:
         if root is None:
             return 0
         
-        max_dep = float("-inf")
-        
-        def dfs(root, dep_cnt):
-            nonlocal max_dep
-            
+        def dfs_maxdepth(root):
             if root is None:
-                return
+                return 0
             
-            max_dep = max(max_dep, dep_cnt)
+            left = dfs_maxdepth(root.left)
+            right = dfs_maxdepth(root.right)
+
+            return max(left, right) + 1
+        
+        # max_dep = float("-inf")
+        
+        # def dfs(root, dep_cnt):
+        #     nonlocal max_dep
             
-            dfs(root.left, dep_cnt + 1)
-            dfs(root.right, dep_cnt + 1)
+        #     if root is None:
+        #         return
+            
+        #     max_dep = max(max_dep, dep_cnt)
+            
+        #     dfs(root.left, dep_cnt + 1)
+        #     dfs(root.right, dep_cnt + 1)
             
         
-        dfs(root, 1)
-
-        return max_dep
+        return dfs_maxdepth(root)
         
