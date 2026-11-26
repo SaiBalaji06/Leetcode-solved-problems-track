@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0566-reshape-the-matrix) |
 ## Math
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0412-fizz-buzz) |
 ## Interactive
 |  |
 | ------- |
