@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiBalaji06/Leetcode-solved-problems-track/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Interactive
 |  |
 | ------- |
